@@ -8,8 +8,8 @@ menampilkan data
 edit data
 hapus data
 cetak data
-KETERANGAN Fungsi yang ada di php
 
+KETERANGAN Fungsi yang ada di php
 mysqli_connect ( ) : Membuat koneksi ke database
 mysqli_fetch_array ( ) : Mengambil hasil baris sebagai asosiatif , array numerik , atau keduanya dari database
 mysqli_query ( ) : Melakukan query terhadap database
